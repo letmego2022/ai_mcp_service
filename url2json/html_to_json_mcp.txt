@@ -1,0 +1,7 @@
+html_to_json_mcp
+├── app.py                    # Gradio Web 应用主程序
+├── parser
+│   ├── __init__.py
+│   └── html_parser.py        # HTML - JSON 的核心解析逻辑
+├── requirements.txt          # 所需依赖
+└── README.md                 # 项目说明文档（可选）
